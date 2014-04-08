@@ -1,0 +1,10 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <color name="segmented_radio_border">#FFFFFF</color>
+    <color name="segmented_radio_seperator">#FFFFFF</color>
+    <color name="segmented_radio_default_text_color">#4D4D4D</color>
+    <color name="segmented_radio_selected_text_color">#FFFFFF</color>
+    <color name="segmented_radio_default_bg_color">#DEB887</color>
+    <color name="segmented_radio_selected_bg_color">#4682B4</color>
+
+</resources>

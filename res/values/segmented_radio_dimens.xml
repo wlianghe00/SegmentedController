@@ -1,0 +1,8 @@
+<resources>
+
+    <dimen name="segmented_radio_button_width">100dp</dimen>
+    <dimen name="segmented_radio_button_height">35dp</dimen>
+    <dimen name="segmented_radio_border_width">2dp</dimen>
+    <dimen name="segmented_radio_seperator_width">2dp</dimen>
+
+</resources>

@@ -1,0 +1,6 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_checked="true" android:color="@color/segmented_radio_selected_text_color"/>
+    <item android:color="@color/segmented_radio_default_text_color"/>
+
+</selector>

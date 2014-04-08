@@ -1,0 +1,26 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="segmented_radio_bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="segmented_radio_normal">
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="segmented_radio_button_style">
+        <item name="android:layout_width">@dimen/segmented_radio_button_width</item>
+        <item name="android:layout_height">@dimen/segmented_radio_button_height</item>
+        <item name="android:button">@null</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingLeft">0dp</item>
+        <item name="android:textColor">@drawable/segmented_radio_text_color_selector</item>
+    </style>
+
+    <style name="segmented_radio_button_seperator_style">
+        <item name="android:layout_width">@dimen/segmented_radio_seperator_width</item>
+        <item name="android:layout_height">@dimen/segmented_radio_button_height</item>
+        <item name="android:background">@color/segmented_radio_seperator</item>
+    </style>
+
+</resources>
