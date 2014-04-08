@@ -4,10 +4,10 @@
     <solid android:color="@android:color/transparent" />
 
     <padding
-        android:bottom="1dp"
-        android:left="1dp"
-        android:right="1dp"
-        android:top="1dp" />
+        android:bottom="@dimen/segmented_radio_border_width"
+        android:left="@dimen/segmented_radio_border_width"
+        android:right="@dimen/segmented_radio_border_width"
+        android:top="@dimen/segmented_radio_border_width" />
 
     <stroke
         android:width="@dimen/segmented_radio_border_width"
